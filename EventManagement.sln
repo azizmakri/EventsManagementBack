@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement", "EventManagement\EventManagement.csproj", "{EA1B3FDA-652C-46E5-BEEE-E1B70B24FB68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.Domain", "EventManagement\EventManagement.Domain.csproj", "{EA1B3FDA-652C-46E5-BEEE-E1B70B24FB68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.Infrastructure", "EventManagement.Infrastructure\EventManagement.Infrastructure.csproj", "{391F51A1-8764-4048-8373-D70DB1A51210}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.Application", "EventManagement.Application\EventManagement.Application.csproj", "{3437ED00-4B76-4D67-A20C-3E8F85A1AAB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventManagement.API", "EventManagement.API\EventManagement.API.csproj", "{5B6F1253-00B9-462A-A2A5-59579E8599D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{EA1B3FDA-652C-46E5-BEEE-E1B70B24FB68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA1B3FDA-652C-46E5-BEEE-E1B70B24FB68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA1B3FDA-652C-46E5-BEEE-E1B70B24FB68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{391F51A1-8764-4048-8373-D70DB1A51210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391F51A1-8764-4048-8373-D70DB1A51210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391F51A1-8764-4048-8373-D70DB1A51210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391F51A1-8764-4048-8373-D70DB1A51210}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3437ED00-4B76-4D67-A20C-3E8F85A1AAB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3437ED00-4B76-4D67-A20C-3E8F85A1AAB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3437ED00-4B76-4D67-A20C-3E8F85A1AAB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3437ED00-4B76-4D67-A20C-3E8F85A1AAB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B6F1253-00B9-462A-A2A5-59579E8599D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B6F1253-00B9-462A-A2A5-59579E8599D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B6F1253-00B9-462A-A2A5-59579E8599D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B6F1253-00B9-462A-A2A5-59579E8599D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
