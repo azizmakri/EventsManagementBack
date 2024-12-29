@@ -1,0 +1,16 @@
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\bin\Debug\net8.0\EventManagement.Application.deps.json
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\bin\Debug\net8.0\EventManagement.Application.dll
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\bin\Debug\net8.0\EventManagement.Application.pdb
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\bin\Debug\net8.0\EventManagement.Domain.dll
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\bin\Debug\net8.0\EventManagement.Domain.pdb
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventManagement.Application.csproj.AssemblyReference.cache
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventManagement.Application.AssemblyInfoInputs.cache
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventManagement.Application.AssemblyInfo.cs
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventManagement.Application.csproj.CoreCompileInputs.cache
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventManagement.Application.sourcelink.json
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventMan.37F6A844.Up2Date
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventManagement.Application.dll
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\refint\EventManagement.Application.dll
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\EventManagement.Application.pdb
+C:\Projects\EventsManagement\Back\EventManagement\EventManagement.Application\obj\Debug\net8.0\ref\EventManagement.Application.dll
